@@ -1,3 +1,5 @@
+.c-fikloop {width: 500 px !important;}
+.vfrc-widget--chat {width: 500 px ;}
 /* use this file to override default styles when forking this repository */
 
 /*
@@ -34,7 +36,7 @@
 
 /* .vfrc-icon {} */
 
-.c-fikloop {width: 500px;}
+
 
 /*
   CHAT MESSAGE BODY
