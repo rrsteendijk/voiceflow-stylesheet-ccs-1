@@ -1,4 +1,5 @@
-.c-fikloo {width: 500px !important;}
+div.c-fikloo {width: 500px;}
+div.vfrc-widget--chat {width: 500px;}
 /* use this file to override default styles when forking this repository */
 
 /*
